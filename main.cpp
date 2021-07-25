@@ -3,7 +3,7 @@
 using namespace std;
 
 std::string key = "VK7JG-NPHTM-C97JM-9MPGT-3V66T";
-std::string command = "slmgr.vps -ipk " + key;
+std::string command = "slmgr.vbs -ipk " + key;
 
 int main()
 {
