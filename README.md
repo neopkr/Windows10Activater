@@ -1,2 +1,3 @@
 # Windows10Activater
-activate
+Just open activater.exe and see if it's work!...
+If something fail try to change the key or tell me.
